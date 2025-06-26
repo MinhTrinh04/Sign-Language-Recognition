@@ -1,3 +1,0 @@
-CNN/models/*.h5
-CNN/models/*.hdf5
-RandomForest/models/*
