@@ -4,7 +4,11 @@ This repository is dedicated to the project on Sign Language Recognition using t
 
 ## Demo
 
-[https://github.com/duongnguyen291/Sign-Language-Recognition/assets/116486270/98d5b29c-dc0d-42c4-98c3-a1b8e8c9e22c](https://github.com/duongnguyen291/Sign-Language-Recognition/assets/116486270/98d5b29c-dc0d-42c4-98c3-a1b8e8c9e22c)
+
+
+https://github.com/user-attachments/assets/cb31c77e-3087-4a79-a7cd-ef2c0e48db59
+
+
 
 ## Project Structure
 
